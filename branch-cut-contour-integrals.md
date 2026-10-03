@@ -1,5 +1,7 @@
 # Contour Integrals in the Presence of Branch Points
 
+
+
 Entries based on handwritten lecture notes, pp. 119–127 (section "Contour Integrals in the Presence of Branch Points"). Each entry follows the same format: statement, condensed derivation, one worked example.
 
 **Conventions used throughout**
@@ -42,6 +44,7 @@ $$
 
 **Statement:**
 Let $0<p<1$ and let $Q(z)$ be rational with no poles on $0\le z\le1$. Put $g(z)=z^{1-p}(z-1)^{p}$, with branch points $z=0,1$ and the cut taken along $[0,1]$. For a thin rectangle $\Gamma$ around the cut (counter-clockwise),
+
 
 $$
 \boxed{\ \int_0^1 x^{1-p}(1-x)^{p}\,Q(x)\,dx=-\frac{1}{2i\sin(\pi p)}\oint_\Gamma g(z)\,Q(z)\,dz\ }
