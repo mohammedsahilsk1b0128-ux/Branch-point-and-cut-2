@@ -228,4 +228,4 @@ Check: this is the area of a half-disc of radius $\frac{b-a}2$, i.e. $\frac12\pi
 
 ---
 
-*Source: handwritten complex-analysis lecture notes, pp. 119–127; worked examples in entries 1, 2 (Q = 1), 3 (cubic), 4 (numerical table) and 5 (semicircle) are additional to the notes.*
+
